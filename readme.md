@@ -1,6 +1,6 @@
 # Tema Patrick
 
-El Tema Patrick es un tema personalizado de WordPress diseñado para el sitio web personal de Patrick. Ofrece un diseño limpio y moderno con un enfoque en mostrar el trabajo e intereses de Patrick.
+El Tema Patrick es un tema personalizado de WordPress diseñado para mi sitio personal (pquintanilla.cl). Ofrece un diseño limpio y moderno con un enfoque en mostrar el trabajo e intereses del autor.
 
 ## Características
 
@@ -19,7 +19,8 @@ El Tema Patrick es un tema personalizado de WordPress diseñado para el sitio we
 
 ## Plugins Requeridos
 
-- Advanced Custom Fields (ACF)
+- Plugins incluidos en el repositorio
+- en el txt va adjunto un script para contact form 7, asi ahorran tiempo.
 
 ## Personalización
 
