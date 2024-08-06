@@ -1,47 +1,39 @@
-# Theme Patrick
+# Tema Patrick
 
-Theme Patrick is a custom WordPress theme designed for Patrick's personal website. It offers a clean, modern design with a focus on showcasing Patrick's work and interests.
+El Tema Patrick es un tema personalizado de WordPress diseñado para el sitio web personal de Patrick. Ofrece un diseño limpio y moderno con un enfoque en mostrar el trabajo e intereses de Patrick.
 
-## Features
+## Características
 
-- Responsive design
-- Custom post types for projects and testimonials
-- Integration with Advanced Custom Fields (ACF) for flexible content management
-- Custom page templates for different sections of the website
-- SVG icon support
-- Custom navigation menus
+- Diseño responsivo
+- Tipos de publicación personalizados para proyectos y testimonios
+- Integración con Advanced Custom Fields (ACF) para una gestión de contenido flexible
+- Plantillas de página personalizadas para diferentes secciones del sitio web
+- Soporte para iconos SVG
+- Menús de navegación personalizados
 
-## Installation
+## Instalación
 
-1. Download the theme files
-2. Upload the theme folder to your WordPress themes directory
-3. Activate the theme through the WordPress admin panel
+1. Descarga los archivos del tema
+2. Sube la carpeta del tema a tu directorio de temas de WordPress
+3. Activa el tema a través del panel de administración de WordPress
 
-## Required Plugins
+## Plugins Requeridos
 
 - Advanced Custom Fields (ACF)
 
-## Customization
+## Personalización
 
-The theme can be customized through the WordPress Customizer. You can modify:
+El tema se puede personalizar a través del Personalizador de WordPress. Puedes modificar:
 
-- Site identity (logo, site title, tagline)
-- Colors
-- Typography
-- Header and footer options
+- Identidad del sitio (logo, título del sitio, eslogan)
+- Colores
+- Tipografía
+- Opciones de encabezado y pie de página
 
-## Development
+## Soporte
 
-This theme uses Gulp for task automation. To set up the development environment:
+Para soporte o solicitudes de funciones, por favor abre un issue en el repositorio de GitHub.
 
-1. Install Node.js and npm
-2. Run `npm install` in the theme directory to install dependencies
-3. Use `gulp watch` to compile assets and watch for changes
+## Licencia
 
-## Support
-
-For support or feature requests, please open an issue on the GitHub repository.
-
-## License
-
-This theme is licensed under the [GNU General Public License v2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
+Este tema está licenciado bajo la [Licencia Pública General de GNU v2 o posterior](https://www.gnu.org/licenses/gpl-2.0.html).
